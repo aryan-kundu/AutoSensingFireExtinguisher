@@ -1,9 +1,34 @@
+# Team Details<br>
+<details>
+  <summary>Detail</summary>
+
+  > Semester: 3rd Sem B. Tech. CSE
+
+  > Section: S2
+
+  > Member-1: Aditya Goyal, 221CS202, adityagoyal.221cs202@nitk.edu.in
+
+
+  > Member-2: Aryan, 221CS210, aryan.221cs210@nitk.edu.in
+
+  > Member-3: Rishabh, 221CS229, mahorrishabhjagdish.221cs229@nitk.edu.in,
+
+</details>
+
 # AutoSensingFireExtinguisher<br>
+
+<details>
+  <summary>Detail</summary>
 This is a project developed to help make sure that fire in a specified place is extinguished without having to install water pipes everywhere, and will show you the exit path as per the fire in the area.<br>
 
 MINI-PROJECt “Design and implementation in logisIM & HDL”<br>
 
+</details>
+
+
 # ABSTRACT:<br>
+<details>
+  <summary>Detail</summary>
 The "Auto-Sensing Fire Extinguisher" is a mini-project designed to enhance fire safety<br>
 by automatically detecting and suppressing fires in their early stages. This project<br>
 leverages a combination of sensors and logic gates to create a responsive and efficient<br>
@@ -20,7 +45,12 @@ control the activation of the fire extinguishing mechanism.<br>
 dispenser, or any other method for delivering the extinguishing agent.<br>
 4. Power Supply: A stable power supply is essential to ensure uninterrupted<br>
 operation.<br>
+</details>
+
+ 
 # Project Functionality:<br>
+<details>
+  <summary>Detail</summary>
 1. Fire Detection: The heat sensors constantly monitor the environment. If<br>
 any sensor detects a significant increase in temperature or the presence<br>
 of smoke, it triggers an alarm signal.<br>
@@ -44,12 +74,15 @@ enhance fire safety. Fires can start unexpectedly and spread rapidly, posing a<b
 significant risk to people and property. An auto-sensing fire extinguisher can<br>
 quickly detect the presence of a fire and take immediate action to suppress it,<br>
 reducing the potential for injury and damage.<br>
+</details>
 
 
 
 
 
 # Working Explained….<br>
+<details>
+  <summary>Detail</summary>
 Implementing a project where a fire extinguisher robot navigates to destinations based on fire sensors and prioritizes reaching the secondary matrix first, if applicable, involves <br>several components working together. Below is a high-level description of how this project would work:<br>
 Components:<br>
 	Fire Extinguisher Robot: This is a mobile robot equipped with sensors, a fire extinguisher, and a navigation system.<br>
@@ -88,7 +121,12 @@ Continuously monitor fire sensors and add new destinations to the queue when fir
 The path-finding algorithm will depend on the layout of the matrix and may use Dijkstra's, A*, or another suitable algorithm.<br>
 The movement of the robot can be simulated using motor control and direction commands.<br>
 The state machine will dictate the robot's actions, such as moving, extinguishing fires, and returning.<br>
+
+ </details>
+  
 # ASSUMPTIONS:<br>
+<details>
+  <summary>Detail</summary>
 To ensure the smoother functioning of the fire extinguisher robot in the described project, you should make several key assumptions and work to ensure they are met. These assumptions <br>are critical for the success of the robot's operation. Here are some key assumptions:<br>
 	  1. Robot Mobility:<br>
 The robot is assumed to have the physical capabilities and mobility to navigate within the environment, including movement, turning, and stopping.<br>
@@ -122,6 +160,8 @@ If the robot relies on network connectivity for communication or remote control,
 Assumption that there is minimal interference from external factors, such as electromagnetic interference, that could affect the robot's electronic components.<br>
 	  16. Safety Measures in Case of Failure:<br>
 Appropriate safety measures and fail-safes are in place to handle unexpected robot behavior or emergencies.<br>
+</details>
+ 
 
 
 
@@ -135,17 +175,25 @@ Appropriate safety measures and fail-safes are in place to handle unexpected rob
 
 
 
-
-How the Code Works?<br>
+# How the Code Works?<br>
+<details>
+  <summary>Detail</summary>
 ![image](https://github.com/aryan-kundu/AutoSensingFireExtinguisher/assets/149221850/96f20286-dc25-4604-9c9e-ea32b6ce652a)<br>
+</details>
 
-FUNCTIONAL TABLE:<br>
+# FUNCTIONAL TABLE:<br>
+
+<details>
+  <summary>Detail</summary>
 ![image](https://github.com/aryan-kundu/AutoSensingFireExtinguisher/assets/149221850/e5048e11-a404-4d7f-a3fd-02055f8cd1dc)<br>
+</details>
 
 
 
-References:<br>
-	 1. Verilog HDL Tutorials:<br>
+# References:<br>
+<details>
+  <summary>Detail</summary>
+	1. Verilog HDL Tutorials:<br>
 Learn Verilog<br>
 	 2. FIFO Queue Implementation in Verilog:<br>
 ASIC World<br>
@@ -165,3 +213,5 @@ Lucidchart ER Diagram Symbols<br>
 Khan Academy Computer Programming<br>
 	 10. Robotics Basics:<br>
 Robotics Academy, Carnegie Mellon University<br>
+</details>
+
