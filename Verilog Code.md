@@ -185,6 +185,5 @@ endmodule<br>
 <br>
 <br>
 OUTPUT:<br>
-
-
-
+<br>
+![image](https://github.com/aryan-kundu/AutoSensingFireExtinguisher/assets/149221850/6a7b5853-3ff7-4b5f-863d-2025ff18937c)
