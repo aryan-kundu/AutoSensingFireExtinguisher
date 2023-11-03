@@ -1,9 +1,16 @@
 <br>
+
+
 Logisim Circuit Main<br><br>
-![Logisim-main](https://github.com/aryan-kundu/AutoSensingFireExtinguisher/assets/149221850/ce77d9e1-f29c-4e6c-af89-08a2ce1fa7d6)<br><br>
+![Logisim-main](https://github.com/aryan-kundu/AutoSensingFireExtinguisher/assets/149221850/a043307c-9a5b-4401-aab5-31eec604f3a5)
+
+
 Logisim Circuit ryn<br><br>
-![Logisim-ryn](https://github.com/aryan-kundu/AutoSensingFireExtinguisher/assets/149221850/d9d78b91-ed88-4711-94d7-d37fce97bedc)<br><br>
+![Logisim-ryn](https://github.com/aryan-kundu/AutoSensingFireExtinguisher/assets/149221850/ce616a1d-bde7-44ff-a032-ff91121d6793)
+
 Logisim Circuit ryn2<br><br>
-![Logisim-ryn2](https://github.com/aryan-kundu/AutoSensingFireExtinguisher/assets/149221850/f18c77a6-3779-43c6-9c3b-6a2d25d904b7)<br><br>
+![Logisim-ryn2](https://github.com/aryan-kundu/AutoSensingFireExtinguisher/assets/149221850/5d02ae5a-a6ff-4a0b-83f4-bcf0dc166d6c)
+
 Logisim Circuit ryn6<br><br>
-![Logisim-ryn6](https://github.com/aryan-kundu/AutoSensingFireExtinguisher/assets/149221850/d2f7b5f6-8513-480a-9260-9f8995c54f0f)<br><br>
+![Logisim-ryn6](https://github.com/aryan-kundu/AutoSensingFireExtinguisher/assets/149221850/7b701e73-a132-4289-ad45-41a860028c64)
+
