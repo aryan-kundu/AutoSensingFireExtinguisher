@@ -207,12 +207,14 @@ Robotics Academy, Carnegie Mellon University<br>
 # Logisim Circuit Diagram:<br>
 <details>
   <summary>Detail</summary>
+	https://github.com/aryan-kundu/AutoSensingFireExtinguisher/edit/main/README.md#:~:text=t-,Logisim,-Verliog
 </details>
 
 # Verilog Code:<br>
 <details>
   <summary>Detail</summary>
-</details>
+	[
+](https://github.com/aryan-kundu/AutoSensingFireExtinguisher/edit/main/README.md#:~:text=Logisim-,Verliog,-Videos)https://github.com/aryan-kundu/AutoSensingFireExtinguisher/edit/main/README.md#:~:text=Logisim-,Verliog,-Videos</details>
 
 
 
