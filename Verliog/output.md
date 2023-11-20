@@ -1,1 +1,2 @@
-![image](https://github.com/aryan-kundu/AutoSensingFireExtinguisher/assets/149221850/4103b732-c237-4bc9-90ab-a14134c7a955)
+![image](https://github.com/aryan-kundu/AutoSensingFireExtinguisher/assets/149221850/e2dc0d95-392d-4ad4-a7b6-0130a91e4c6f)
+
