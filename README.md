@@ -193,13 +193,13 @@ Robotics Academy, Carnegie Mellon University<br>
 
 
 
-# How the Code Works?<br>
+# FUNCTIONAL TABLE: <br>
 
 ![image](https://github.com/aryan-kundu/AutoSensingFireExtinguisher/assets/149221850/ee802a5c-d84e-4cc7-995f-338fc5d59929)
 <br>
 
 
-# FUNCTIONAL TABLE:<br>
+# How the Code Works?<br>
 
 
 ![image](https://github.com/aryan-kundu/AutoSensingFireExtinguisher/assets/149221850/749d49fe-9080-4800-905b-78b71381e5a3)
